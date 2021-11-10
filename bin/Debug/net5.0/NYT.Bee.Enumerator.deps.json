@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NYT.Bee.Enumerator/1.0.0": {
+        "dependencies": {
+          "WindowsInput": "1.0.5.0"
+        },
+        "runtime": {
+          "NYT.Bee.Enumerator.dll": {}
+        }
+      },
+      "WindowsInput/1.0.5.0": {
+        "runtime": {
+          "WindowsInput.dll": {
+            "assemblyVersion": "1.0.5.0",
+            "fileVersion": "1.0.5.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NYT.Bee.Enumerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WindowsInput/1.0.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
